@@ -4,7 +4,7 @@
 ---
 
 ### 💫 About Me
-🎓 Final-year **Computer Science Engineering** student at *Er. Perumal Manimekalai College of Engineering, Hosur (CGPA 7.81)*.  
+🎓 **Computer Science Engineering** student at *Er. Perumal Manimekalai College of Engineering, Hosur (CGPA 7.81)*.  
 💻 Passionate about **Java**, **Full-Stack Web Development**, and **Data-Driven Solutions**.  
 🧩 Focused on writing clean, efficient code and learning through hands-on project building.  
 🎯 Currently working through the **Kodnest Java Full Stack Developer Program** — mastering backend and frontend integration.
