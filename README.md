@@ -17,7 +17,7 @@
 `Java` • `JavaScript` • `HTML5` • `CSS3` • `SQL`
 
 #### ⚙️ Frameworks & Tools
-`Spring Boot` • `React.js` • `Node.js` • `Express.js` • `Bootstrap` • `Tailwind CSS`
+`Spring Boot` • `React.js` • `Node.js` • `Express.js` • `Bootstrap` • `Tailwind CSS` • `TypeScript.Js`
 
 #### 🗃️ Databases
 `MySQL` • `MongoDB` • `PostgreSQL` • `Oracle`
